@@ -20,7 +20,7 @@
 # 🔢 Push_swap [![gemartin's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2557802)](https://github.com/JaeSeoKim/badge42)
 ► [Project description and code](https://github.com/gemartin99/Push_swap)
 
-# 🎮 So_long [![gemartin's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2523665)](https://github.com/JaeSeoKim/badge42)
+# 🎮 So_long [![gemartin's 42 so_long Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2585012)](https://github.com/JaeSeoKim/badge42)(https://github.com/JaeSeoKim/badge42)
 ► [Project description and code](https://github.com/gemartin99/So_long)
 
 # 🍴 Philosophers [![gemartin's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2598323)](https://github.com/JaeSeoKim/badge42)
