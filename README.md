@@ -6,7 +6,7 @@
 ► [Project description and code](https://github.com/gemartin99/Libft)
 
 # 🖥 Born2beroot [![gemartin's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2470400)](https://github.com/JaeSeoKim/badge42)
-► Project description and instalation tutorial 🔜🛠
+► [Project description and instalation tutorial](https://github.com/gemartin99/Born2beroot-Tutorial)
 
 # 📝 Printf [![gemartin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2470176)](https://github.com/JaeSeoKim/badge42)
 ► [Project description and code](https://github.com/gemartin99/ft_printf)
