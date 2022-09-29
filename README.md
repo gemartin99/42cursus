@@ -39,6 +39,10 @@
 ► [Code](https://github.com/gemartin99/minishell) 🔜🛠
 <br>
 
+# C ➕➕ [![gemartin's 42 minishell Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2598325)](https://github.com/JaeSeoKim/badge42)
+► [Code](https://github.com/gemartin99/CPP) 🔜🛠
+<br>
+
 # 👨🏻‍🎓 Exam Rank 02 [![gemartin's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2499279)](https://github.com/JaeSeoKim/badge42)
 
 # 👨🏻‍🎓 Exam Rank 03 [![gemartin's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2598324)](https://github.com/JaeSeoKim/badge42)
