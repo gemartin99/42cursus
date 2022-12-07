@@ -35,11 +35,11 @@
 ► [Project description and code](https://github.com/gemartin99/Philosophers)
 <br>
 <br>
-# 🐚 Minishell [![gemartin's 42 minishell Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2598325)](https://github.com/JaeSeoKim/badge42)
+# 🐚 Minishell
 ► [Code](https://github.com/gemartin99/minishell) 🔜🛠
 <br>
 
-# C ➕➕ [![gemartin's 42 minishell Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2598325)](https://github.com/JaeSeoKim/badge42)
+# C ➕➕
 ► [Code](https://github.com/gemartin99/CPP) 🔜🛠
 <br>
 
