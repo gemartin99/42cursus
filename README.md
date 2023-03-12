@@ -43,7 +43,7 @@
 ► [Project description and code](https://github.com/gemartin99/MiniRT)
 <br>
 
-# C ➕➕ [![gemartin's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2923457)](https://github.com/JaeSeoKim/badge42)
+# C ➕➕ [![gemartin's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/3016862)](https://github.com/JaeSeoKim/badge42)
 ► [Code](https://github.com/gemartin99/CPP)
 <br>
 
@@ -59,6 +59,8 @@
 # 👨🏻‍🎓 Exam Rank 02 [![gemartin's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2499279)](https://github.com/JaeSeoKim/badge42)
 
 # 👨🏻‍🎓 Exam Rank 03 [![gemartin's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2598324)](https://github.com/JaeSeoKim/badge42)
+
+# 👨🏻‍🎓 Exam Rank 04 [![gemartin's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2991548)](https://github.com/JaeSeoKim/badge42)
 
 # 🦠 Stockholm (NO CURSUS) [![gemartin's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2470176)](https://github.com/JaeSeoKim/badge42) 
 ► [Project description and code](https://github.com/gemartin99/Stockholm)
