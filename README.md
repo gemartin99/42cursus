@@ -40,15 +40,21 @@
 <br>
 
 # ⚡️ MiniRT [![gemartin's 42 miniRT Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2925208)](https://github.com/JaeSeoKim/badge42)
-► [Code](https://github.com/gemartin99/MiniRT) 🔜🛠
+► [Project description and code](https://github.com/gemartin99/MiniRT)
 <br>
 
 # C ➕➕ [![gemartin's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2923457)](https://github.com/JaeSeoKim/badge42)
-► [Code](https://github.com/gemartin99/CPP) 🔜🛠
+► [Code](https://github.com/gemartin99/CPP)
 <br>
 
 # 🌐 Netpractice [![gemartin's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2923458)](https://github.com/JaeSeoKim/badge42)
 <br>
+
+# 💬 IRC [![gemartin's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/3017208)](https://github.com/JaeSeoKim/badge42)
+► [Code](https://github.com/fletcher97/ft_irc) 🔜🛠
+<br>
+
+
 
 # 👨🏻‍🎓 Exam Rank 02 [![gemartin's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/2499279)](https://github.com/JaeSeoKim/badge42)
 
