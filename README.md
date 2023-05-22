@@ -51,7 +51,7 @@
 <br>
 
 # 💬 IRC [![gemartin's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/3017208)](https://github.com/JaeSeoKim/badge42)
-► [Code](https://github.com/fletcher97/ft_irc) 🔜🛠
+► [Project description and code](https://github.com/gemartin99/ft_irc)
 <br>
 
 
