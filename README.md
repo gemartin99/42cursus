@@ -55,7 +55,7 @@
 <br>
 
 # 🐳 Inception [![gemartin's 42 Inception Score](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/project/3017264)](https://github.com/JaeSeoKim/badge42)
-► [Project description and tutorial](https://github.com/gemartin99/inception) WIP 🛠🔜
+► [Project description and tutorial](https://github.com/gemartin99/Inception-Tutorial) WIP 🛠🔜
 
 # 🏓 Transcendence 
 
