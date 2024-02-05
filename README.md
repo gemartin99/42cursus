@@ -73,5 +73,7 @@
 
 # 👨🏻‍🎓 Exam Rank 05 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 
+# 👨🏻‍🎓 Exam Rank 06 <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
+
 # 🦠 Stockholm (NO CURSUS) <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 ► [Project description and code](https://github.com/gemartin99/Stockholm)
