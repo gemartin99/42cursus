@@ -1,6 +1,6 @@
 # 42 Cursus progress 👨🏻‍💻 
 
-[![gemartin's 42 stats](https://badge42.vercel.app/api/v2/cl5fnqd4w001609mrn2pr0pxu/stats?cursusId=21&coalitionId=205)](https://github.com/JaeSeoKim/badge42)
+[![gemartin's 42 stats](https://badge.mediaplus.ma/binary/gemartin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 # 📚 Libft <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 
