@@ -59,7 +59,7 @@
 <br>
 
 # 🐳 Inception <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
-► [Project description and tutorial](https://github.com/gemartin99/Inception-Tutorial) WIP 🛠🔜
+► [Project description and tutorial](https://github.com/gemartin99/Inception-Tutorial) TUTORIAL WIP 🛠🔜
 
 # 🏓 Transcendence <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 
@@ -78,7 +78,7 @@
 # ❄️ Snow-crash (OUT CORE)  <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 ► [Project description and code](https://github.com/gemartin99/Snow-Crash)
 
-# 🕵️ Darkly (OUT CORE) WIP
+# 🕵️ Darkly (OUT CORE) <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 ► [Project description and code](https://github.com/gemartin99/Darkly-Tutorial)
 
 # 🦠 Stockholm (NO CURSUS) <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
