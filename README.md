@@ -81,5 +81,8 @@
 # 🕵️ Darkly (OUT CORE) <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 ► [Project description and code](https://github.com/gemartin99/Darkly-Tutorial)
 
-# 🦠 Stockholm (NO CURSUS) <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
+# 🛠️ Libasm (OUT CORE) <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
+► [Code](https://github.com/gemartin99/Libasm)
+
+# 🦠 Stockholm (Cybersecurity Piscine) <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 ► [Project description and code](https://github.com/gemartin99/Stockholm)
