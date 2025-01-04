@@ -118,8 +118,8 @@
 <br>
 
 
-## 🪱 Famine
-► [Code](https://github.com/jareste/famine) WIP 🛠️
+## 🪱 Famine <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+► [Code](https://github.com/jareste/famine)
 
 <br>
 
@@ -142,8 +142,8 @@
 
 <br>
 
-## 🌧️ Rainfall (OUT CORE) 
-► [Project description](https://github.com/gemartin99/rainfall) WIP 🛠️
+## 🌧️ Rainfall <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+► [Project description](https://github.com/gemartin99/rainfall)
 
 <br>
 
