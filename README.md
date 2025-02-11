@@ -45,32 +45,31 @@
 <br>
 <br>
 # 🐚 Minishell <img width="118" alt="Screen Shot 2023-11-18 at 4 50 14 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c14f2848-1249-4485-84ee-2b68644556d3">
-
 ► [Project description and code](https://github.com/gemartin99/minishell)
 <br>
-
+<br>
 # ⚡️ MiniRT <img width="121" alt="Screen Shot 2023-11-18 at 4 49 55 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c29192d0-a3d2-49ef-866a-a6e0891e4d42">
-
 ► [Project description and code](https://github.com/gemartin99/MiniRT)
 <br>
-
+<br>
 # C ➕➕ <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 ► [Code](https://github.com/gemartin99/CPP00)
 <br>
-
+<br>
 # 🌐 Netpractice <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
+<br>
 
 # 💬 IRC <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 ► [Project description and code](https://github.com/gemartin99/ft_irc)
 <br>
-
+<br>
 # 🐳 Inception <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
-► [Project description and tutorial](https://github.com/gemartin99/Inception-Tutorial) TUTORIAL WIP 🛠🔜
+► [Project description and tutorial](https://github.com/gemartin99/Inception)
+<br>
 <br>
 # 🏓 Transcendence <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
-
 ► [Code](https://github.com/gemartin99/ft_transcendence)
-
+<br>
 <br>
 
 # EXAM's 🎓
@@ -92,59 +91,41 @@
 
 # 🛠️ Libasm <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 ► [Code](https://github.com/gemartin99/Libasm)
-
 <br>
-
-# 🦠 Virus Projects
 <br>
-
-<details>
-<summary> EXPAND </summary>
-
-## 🔑 Stockholm (Cybersecurity Piscine) <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
-
+# 🔑 Stockholm (Cybersecurity Piscine) <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 ► [Project description and code](https://github.com/gemartin99/Stockholm)
-
 <br>
-
-## ⌨️ Tinky-Winkey
+<br>
+# ⌨️ Tinky-Winkey
 ► [Code](https://github.com/gemartin99/tinky-winkey) WIP 🛠️
-
 <br>
-
-## 🛡️ Ft_shield <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+<br>
+# 🛡️ Ft_shield <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 ► [Code](https://github.com/jareste/ft_shield)
-
 <br>
-
-
-## 🪱 Famine <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+<br>
+# 🪱 Famine ![Screenshot from 2025-02-11 17-17-00](https://github.com/user-attachments/assets/5099a500-3889-41b4-a254-9b44846c1f15)
 ► [Code](https://github.com/jareste/famine)
-
 <br>
-
-</details>
-
-
-# 🚩 CTF Projects
 <br>
-
-<details>
-<summary> EXPAND </summary>
-
-## ❄️ Snow-crash  <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
+# ❄️ Snow-crash  <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
 ► [Project description](https://github.com/gemartin99/Snow-Crash)
-
 <br>
-
-## 🕵️ Darkly <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+<br>
+# 🔍 Darkly <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 ► [Project description and tutorial](https://github.com/gemartin99/Darkly-Tutorial)
-
 <br>
-
-## 🌧️ Rainfall <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
+<br>
+# 🌧️ Rainfall <img width="116" alt="Screen Shot 2023-11-18 at 4 49 01 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/c41df0c0-4541-4bac-b929-b7ff4a30b397">
 ► [Project description](https://github.com/gemartin99/rainfall)
-
 <br>
-
-</details>
+<br>
+# 🕵️‍♂️ Ft_malcom 
+► [Code](https://github.com/gemartin99/ft_malcom) WIP 🛠️
+<br>
+<br>
+# 📊 Dslr 
+► [Code](https://github.com/jareste/dslr)
+<br> 
+<br>
