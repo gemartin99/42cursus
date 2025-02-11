@@ -97,7 +97,7 @@
 ► [Project description and code](https://github.com/gemartin99/Stockholm)
 <br>
 <br>
-# ⌨️ Tinky-Winkey ![image](https://github.com/user-attachments/assets/4f65a2dc-976d-42c0-8919-dda3032bb3c9)
+# ⌨️ Tinky-Winkey <img width="116" alt="Screen Shot" src="https://github.com/user-attachments/assets/d19379ae-b212-40c2-99b0-c02390884a40">
 ► [Code](https://github.com/gemartin99/tinky-winkey) WIP 🛠️
 <br>
 <br>
@@ -121,15 +121,15 @@
 ► [Project description](https://github.com/gemartin99/rainfall)
 <br>
 <br>
-# 🕵️‍♂️ Ft_malcom ![image](https://github.com/user-attachments/assets/d19379ae-b212-40c2-99b0-c02390884a40)
+# 🕵️‍♂️ Ft_malcom <img width="116" alt="Screen Shot" src="https://github.com/user-attachments/assets/d19379ae-b212-40c2-99b0-c02390884a40">
 ► [Code](https://github.com/gemartin99/ft_malcom) WIP 🛠️
 <br>
 <br>
-# 📊 Dslr ![image](https://github.com/user-attachments/assets/e3b33049-3798-4307-86d1-4864ba3e50ad)
+# 📊 Dslr <img width="116" alt="Screen Shot" src="https://github.com/user-attachments/assets/e3b33049-3798-4307-86d1-4864ba3e50ad">
 ► [Code](https://github.com/jareste/dslr)
 <br> 
 <br>
-# 🗂️ Taskmaster ![image](https://github.com/user-attachments/assets/a742ce36-0796-4d7f-966c-a6b5afa4a5c2)
+# 🗂️ Taskmaster <img width="116" alt="Screen Shot" src="https://github.com/user-attachments/assets/d19379ae-b212-40c2-99b0-c02390884a40">
 ► [Code](https://github.com/jareste/taskmaster)
 
 # 📡 Bgp At Doors of Autonomous Systems is Simple <img width="129" alt="Screen Shot 2023-11-18 at 4 47 13 AM" src="https://github.com/gemartin99/42cursus/assets/66915274/af63455d-c404-4bea-bfe5-cdfd21dcbafe">
