@@ -121,8 +121,8 @@
 ► [Project description](https://github.com/gemartin99/rainfall)
 <br>
 <br>
-# 🕵️‍♂️ Ft_malcom <img width="116" alt="Screen Shot" src="https://github.com/user-attachments/assets/d19379ae-b212-40c2-99b0-c02390884a40">
-► [Code](https://github.com/gemartin99/ft_malcom) WIP 🛠️
+# 🕵️‍♂️ Ft_malcolm <img width="116" alt="Screen Shot" src="https://github.com/user-attachments/assets/d19379ae-b212-40c2-99b0-c02390884a40">
+► [Code](https://github.com/gemartin99/ft_malcolm) WIP 🛠️
 <br>
 <br>
 # 📊 Dslr <img width="116" alt="Screen Shot" src="https://github.com/user-attachments/assets/e3b33049-3798-4307-86d1-4864ba3e50ad">
